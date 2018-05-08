@@ -1,0 +1,196 @@
+def KEYWORD on line no.1
+test IDENTIFIER on line no.1
+( on line no.1
+a1 IDENTIFIER on line no.1
+, on line no.1
+a2 IDENTIFIER on line no.1
+, on line no.1
+* on line no.1
+a3 IDENTIFIER on line no.1
+) on line no.1
+print IDENTIFIER on line no.3
+a3 IDENTIFIER on line no.3
+$ on line no.4
+temp IDENTIFIER on line no.4
+= on line no.4
+1 Integer constant on line no.4
+a IDENTIFIER on line no.5
+= on line no.5
+10 Integer constant on line no.5
+d IDENTIFIER on line no.8
+b IDENTIFIER on line no.9
+= on line no.9
+Error Octa, hexa not supported on line no.9
+c IDENTIFIER on line no.10
+= on line no.10
+b IDENTIFIER on line no.10
+i IDENTIFIER on line no.11
+= on line no.11
+1 Integer constant on line no.11
+b IDENTIFIER on line no.12
+= on line no.12
+3 Integer constant on line no.12
+* on line no.12
+a IDENTIFIER on line no.12
++ on line no.12
+2 Integer constant on line no.12
+if KEYWORD on line no.12
+a IDENTIFIER on line no.12
+== on line no.12
+10 Integer constant on line no.12
+and KEYWORD on line no.12
+i IDENTIFIER on line no.12
+== on line no.12
+1 Integer constant on line no.12
+a IDENTIFIER on line no.13
+= on line no.13
+a IDENTIFIER on line no.13
++ on line no.13
+1 Integer constant on line no.13
+while KEYWORD on line no.13
+a IDENTIFIER on line no.13
+< on line no.13
+30 Integer constant on line no.13
+or KEYWORD on line no.13
+b IDENTIFIER on line no.13
+< on line no.13
+10 Integer constant on line no.13
+a IDENTIFIER on line no.14
+= on line no.14
+2 Integer constant on line no.14
+if KEYWORD on line no.14
+not KEYWORD on line no.14
+b IDENTIFIER on line no.14
+== on line no.14
+12 Integer constant on line no.14
+a IDENTIFIER on line no.15
++ on line no.15
+= on line no.15
+3 Integer constant on line no.15
+print IDENTIFIER on line no.16
+a IDENTIFIER on line no.16
+print IDENTIFIER on line no.17
+"\n"Double quote string on line no.17
+printf IDENTIFIER on line no.18
+( on line no.18
+"%d %d\n"Double quote string on line no.18
+, on line no.18
+a IDENTIFIER on line no.18
+, on line no.18
+b IDENTIFIER on line no.18
+) on line no.18
+; on line no.18
+b IDENTIFIER on line no.20
+= on line no.20
+"A string"Double quote string on line no.20
+c IDENTIFIER on line no.21
+= on line no.21
+'Another String'single quote string on line no.21
+print IDENTIFIER on line no.22
+b IDENTIFIER on line no.22
++ on line no.22
+" and "Double quote string on line no.22
++ on line no.22
+c IDENTIFIER on line no.22
++ on line no.22
+"\n"Double quote string on line no.22
+; on line no.22
+rno IDENTIFIER on line no.23
+= on line no.23
+55 Integer constant on line no.23
+if KEYWORD on line no.24
+rno IDENTIFIER on line no.24
+> on line no.24
+50 Integer constant on line no.24
+then KEYWORD on line no.25
+print IDENTIFIER on line no.26
+"That's more than half as big as it could be!\n"Double quote string on line no.26
+elsif KEYWORD on line no.27
+rno IDENTIFIER on line no.27
+== on line no.27
+42 Integer constant on line no.27
+print IDENTIFIER on line no.28
+"That's the ultimate magic number!!!!\n"Double quote string on line no.28
+elsif KEYWORD on line no.29
+rno IDENTIFIER on line no.29
+< on line no.29
+10 Integer constant on line no.29
+print IDENTIFIER on line no.30
+"That's pretty small, actually.\n"Double quote string on line no.30
+else IDENTIFIER on line no.31
+print IDENTIFIER on line no.32
+"What a boring number.\n"Double quote string on line no.32
+end KEYWORD on line no.33
+if KEYWORD on line no.35
+rno IDENTIFIER on line no.35
+== on line no.35
+100 Integer constant on line no.35
+then KEYWORD on line no.35
+print IDENTIFIER on line no.35
+"Gosh, you've maxxed out!\n"Double quote string on line no.35
+end KEYWORD on line no.35
+d IDENTIFIER on line no.37
+= on line no.37
+0 Integer constant on line no.37
+while KEYWORD on line no.39
+d IDENTIFIER on line no.39
+< on line no.39
+2 Integer constant on line no.39
+a IDENTIFIER on line no.40
+= on line no.40
+b IDENTIFIER on line no.40
++ on line no.40
+c IDENTIFIER on line no.40
+d IDENTIFIER on line no.41
+= on line no.41
+d IDENTIFIER on line no.41
++ on line no.41
+1 Integer constant on line no.41
+end KEYWORD on line no.42
+ary IDENTIFIER on line no.43
+= on line no.43
+[ on line no.43
+1 Integer constant on line no.43
+, on line no.43
+2 Integer constant on line no.43
+, on line no.43
+3 Integer constant on line no.43
+] on line no.43
+for KEYWORD on line no.44
+i IDENTIFIER on line no.44
+in KEYWORD on line no.44
+ary IDENTIFIER on line no.44
+print IDENTIFIER on line no.45
+i IDENTIFIER on line no.45
+end KEYWORD on line no.46
+print IDENTIFIER on line no.47
+a IDENTIFIER on line no.47
+= on line no.48
+ss IDENTIFIER on line no.49
+= on line no.49
+Array KEYWORD on line no.49
+new IDENTIFIER on line no.49
+( on line no.49
+3 Integer constant on line no.49
+) on line no.49
+return KEYWORD on line no.50
+( on line no.50
+0 Integer constant on line no.50
+) on line no.50
+end KEYWORD on line no.51
+print IDENTIFIER on line no.53
+test IDENTIFIER on line no.53
+( on line no.53
+1 Integer constant on line no.53
+, on line no.53
+2 Integer constant on line no.53
+, on line no.53
+3 Integer constant on line no.53
+, on line no.53
+4 Integer constant on line no.53
+, on line no.53
+5 Integer constant on line no.53
+) on line no.53
+print IDENTIFIER on line no.54
+$ on line no.54
+temp IDENTIFIER on line no.54

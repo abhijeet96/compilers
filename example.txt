@@ -1,0 +1,54 @@
+def test(a1, a2,*a3)
+# this is a comment
+	print a3
+    $temp = 1
+    a = 10
+    =begin
+    wow what a wow
+    =end
+    b = 0009
+    c = b
+    i = 1
+	b = 3 * a + 2 if a == 10 and i == 1
+	a = a + 1 while a < 30 or b < 10
+	a = 2 if not b == 12
+	a += 3
+	print a
+	print "\n"
+	printf("%d %d\n", a, b);
+
+	b = "A string"
+	c = 'Another String'
+	print b + " and " + c + "\n";
+	rno = 55
+	if rno > 50 
+		then
+	    print "That's more than half as big as it could be!\n"
+	elsif rno == 42
+	    print "That's the ultimate magic number!!!!\n"
+	elsif rno < 10
+	    print "That's pretty small, actually.\n"
+	else
+	    print "What a boring number.\n"
+	end
+
+	if rno == 100 then print "Gosh, you've maxxed out!\n" end
+
+	d = 0
+
+	while d< 2
+		a = b + c
+		d = d+1
+	end
+	ary = [1,2,3]
+	for i in ary
+		print i
+	end
+	print a
+	
+	ss = Array.new(3)
+	return(0)
+end
+
+print test(1,2,3,4,5)
+print $temp
